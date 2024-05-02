@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test_Suite_Emulator">
+	<test name="Tests_on_Emulator_Android_2">
+		<parameter name="platformName" value="Android" />
+		<parameter name="udid" value="emulator-5554" />
+		<parameter name="deviceName" value="Pixel_4_API_31" />
+		<parameter name="automationName" value="UiAutomator2" />
+		<parameter name="systemPort" value="10000" />
+		<parameter name="chromeDriverPort" value="11000" />
+		<classes>
+			<class name="runners.RunnerBase" />
+		</classes>
+	</test>
+</suite> 

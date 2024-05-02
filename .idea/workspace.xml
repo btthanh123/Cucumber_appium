@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49415827-681e-458d-a91d-8b9f21c2b06a" name="Default Changelist" comment="Basic Appium">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Basic/BrowserTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Basic/CapabilitiesManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Basic/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Basic/GlobalParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Basic/PropertyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Basic/ServerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/defs/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/defs/ItemPageDefs_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/defs/LoginDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/defs/LoginWebDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/defs/cartPageDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CartPageStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ItemPageSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPageSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginWebPageSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginWebSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/RunnerBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/TestNGRunner_Pixel3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/UsernameUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/App/General-Store.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/chromedriver124.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/testcase01.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/myRunners/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Basic/AppiumTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Basic/AppiumTestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Basic/TestAuto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Basic/Utils/FileUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/defs/FirstDefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/defs/LoginDefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/defs/StartStopDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/defs/StartStopDefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/defs/WorkoutDefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Common.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/FirstPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/WorkoutsPages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/FirstPageSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/LoginStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/WorkoutsSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/App/Appfitness.apk" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/App/Foody - Find Reserve Delivery_6.25_apkcombo.com.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Testcase02.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Testcase02.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testcase01.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-starter-1.0.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/App/Appfitness.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Basic/AppiumTestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Basic/Common.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Basic/TestAuto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Basic/Utils/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Defsuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Testcase02.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/defs/LoginDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/defs/MyStepdefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/LoginStep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testcase01.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/widget/LoginContentWidget.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2euFokCOTOYl5IEEWMJ0BCN5Nl5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/runners" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="steps" />
+      <recent name="pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AppiumCucumber\AppiumProject\src\test\java\runners" />
+      <recent name="D:\AppiumCucumber\AppiumProject\src\main\resources" />
+      <recent name="D:\AppiumCucumber\AppiumProject\src\test\resources\drivers" />
+      <recent name="D:\AppiumCucumber\AppiumProject\src\test\resources\features" />
+      <recent name="D:\AppiumCucumber\AppiumProject\src\test\resources\Data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AppiumCucumber\AppiumProject\src\test\resources\myRunners" />
+      <recent name="D:\AppiumCucumber\AppiumProject\src\test\resources\features" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="runners" />
+      <recent name="defs" />
+      <recent name="Basic" />
+      <recent name="steps" />
+      <recent name="utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/AppiumCucumber/AppiumProject/src/test/resources/myRunners/testng.xml">
+    <configuration name="Feature: testcase01" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/testcase01.feature" />
+      <option name="GLUE" value="defs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="AppiumProject" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: testcase01" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: testcase02" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/testcase02.feature" />
+      <option name="GLUE" value="defs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="AppiumProject" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: testcase02" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Open a browser test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/testcase02.feature" />
+      <option name="GLUE" value="defs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="AppiumProject" />
+      <option name="NAME_FILTER" value="^Open a browser test$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Open a browser test$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Open a browser test" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/AppiumCucumber/AppiumProject/src/test/java/runners/testng_emulator_pixel_3.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/runners/testng_emulator_pixel_3.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/AppiumCucumber/AppiumProject/src/test/resources/myRunners/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/myRunners/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/AppiumCucumber/AppiumProject/src/test/resources/myRunners/testng.xml" />
+        <item itemvalue="TestNG.D:/AppiumCucumber/AppiumProject/src/test/java/runners/testng_emulator_pixel_3.xml" />
+        <item itemvalue="Cucumber Java.Scenario: Open a browser test" />
+        <item itemvalue="Cucumber Java.Feature: testcase02" />
+        <item itemvalue="Cucumber Java.Feature: testcase01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49415827-681e-458d-a91d-8b9f21c2b06a" name="Default Changelist" comment="" />
+      <created>1712746735390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712746735390</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Basic Appium">
+      <created>1712746809265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712746809265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic Appium" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic Appium" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Basic/AppiumTestBase.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Basic/AppiumTestBase.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Basic/AppiumTestBase.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Basic/AppiumTestBase.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Basic/BrowserTestBase.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pages/LoginWebPageSteps.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/defs/LoginWebDef.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pages/LoginWebPageSteps.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pages/LoginWebPageSteps.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pages/Common.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
